@@ -15,3 +15,6 @@ __同じくもっと強調__
 [リンクテストYoutube](youtube.com)
 
 branchしてmergeのテスト
+
+## 見出し2
+コンフリフリクト
